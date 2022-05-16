@@ -50,7 +50,7 @@ Uma conversa atenta com 10 clientes vai te consumir uns dois dias e vai preserva
 
 ## 2. Não seja uma vítima do contexto
 
-Você ia sair para jogar bola e começou a chover. Você perdeu o voo para uma reunião importante. A previsão orçamentária não aconteceu conforme o previsto. O seu principal Tech lead foi trabalhar em Amsterdã ganhando o triplo. Deu para entender?
+Você ia sair para jogar bola e começou a chover. Você perdeu o voo para uma reunião importante. A previsão orçamentária não aconteceu conforme o previsto. O seu principal líder técnico foi trabalhar em Amsterdã ganhando o triplo. Deu para entender?
 
 O homem planeja e Deus dá risada. Se tem algo fácil de afirmar é que por melhor que sejam nossos planos, a realidade não vai se curvar a eles. Diante dos imprevistos que vão acontecer e das situações ingratas que você vai ter que lidar, só existe uma opção: usar a criatividade e se adaptar.
 
@@ -80,7 +80,7 @@ Já se você quer testar uma nova funcionalidade totalmente incerta com 0,1% dos
 
 Não existe "a melhor ferramenta", "a melhor linguagem" ou "o melhor processo". O que existem são boas escolhas que otimizam para um tipo de resultado em detrimento de alguns *trade-offs*.
 
-Você precisa definir políticas para lidar com os *trade-offs* das suas escolhas. Por exemplo: Escolher uma linguagem de programação com alta performance mas com um baixo número de desenvolvedores no país significa que você: 1) Vai ganhar em tempo de resposta da aplicação (otimização) mas; 2) Vai ter dificuldade na contratação de profissionais. Para lidar com esse *trade-off*, você pode, por exemplo, criar uma área de formação de desenvolvedores, ou investir pesado e se tornar a maior referência do país na linguagem, de forma a atrair os poucos desenvolvedores disponíveis para o seu time.
+Você precisa ter muita clareza dos *trade-offs* das suas decisões, bem comoe definir políticas para lidar com eles. Por exemplo: Escolher uma linguagem de programação com alta performance mas com um baixo número de desenvolvedores no país significa que você: 1) Vai ganhar em tempo de resposta da aplicação (otimização) mas; 2) Vai ter dificuldade na contratação de profissionais. (*trade-off*). A escolha da otimização é também a escolha do *trade-off*.
 
 ## 5. Não seja o profeta do futuro que nunca chega
 
