@@ -204,9 +204,9 @@ Todos os comportamentos dessa lista são os que você pode cobrar de mim. Vamos 
 Reuniões são um mal necessário para determinados assuntos. Algumas diretrizes amenizam o impacto negativo delas:
 
 - **Back-to-back** - Marque reuniões em blocos, uma começando logo após a outra terminar. Dessa forma o dia não fica fragmentado com diversos blocos de 15/30 minutos entre reuniões.
-- **Câmera aberta e sem multi tasking** - Já estamos gastando tempo de todo mundo para fazer a reunião. O mínimo é que você esteja prestando atenção e contribuindo. 
-- **Com pauta e preparação** - Se você chamar uma reunião, o mínimo que eu espero é que tenha uma pauta clara e um condutor que tenha se preparado, de preferência com um bom briefing para que todos os participantes possam se preparar.
-- **Limpa periódica** - Temos uma tendência natural a [adicionar mais do que tirar](https://www.scientificamerican.com/article/our-brain-typically-overlooks-this-brilliant-problem-solving-strategy/), e assim acabamos com agendas sobrecarregadas. Reuniões ficam obsoletas e devem ser removidas periodicamente.
+- **Câmera aberta e sem multi tasking** - Já que estamos gastando o tempo de todo mundo, o mínimo que se espera de um participante é que esteja contribuindo ativamente.
+- **Com pauta e preparação** - Se você chamar uma reunião, tenha uma pauta clara e um facilitador preparado, de preferência com um bom briefing para que todos os participantes saibam o que esperar e como contribuir.
+- **Limpa periódica** - Temos uma tendência natural a resolver problemas [adicionando mais coisas do que tirando](https://www.scientificamerican.com/article/our-brain-typically-overlooks-this-brilliant-problem-solving-strategy/), e assim acabamos com agendas sobrecarregadas. Reuniões ficam obsoletas e devem ser removidas periodicamente.
 
 **E-Mail**
 
