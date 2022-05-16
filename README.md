@@ -104,14 +104,14 @@ Eis que no meio do lançamento do nosso produto, o PIX é lançado, com uma ado�
 
 Ninguém vai a falência por falta de trabalho, mas sim por trabalhar nas coisas erradas. É fácil se iludir e achar que um dia que começa de madrugada, uma agenda cheia e um final do dia exaustivo são a matéria prima do sucesso.
 
-A máxima da correlação entre o sucesso e o trabalho árduo é verdadeira para atividades puramente operacionais, onde há uma conexão direta entre tempo/energia e output. Para todo o resto, é preciso ter alguns elementos para não cair em armadilhas e tomar boas decisões:
+A máxima da correlação entre o sucesso e o trabalho árduo é verdadeira para atividades puramente operacionais, onde há uma conexão direta entre tempo/energia e *output*. Para todo o resto, é preciso ter algumas proteções para não cair em armadilhas e tomar boas decisões:
 
 1) Defina onde quer chegar e por quê.
 2) Instrumente tudo e defina KPIs que te mostram onde você está e o quanto está se aproximando do seu objetivo.
 3) Tenha um pulso periódico para verificar seus KPIs.
 4) Adapte seu curso rapidamente caso necessário. Mude seu destino se descobrir algo excepcional.
 
-Assim como os grandes navegadores, se você está de fato tomando riscos num projeto inovador, é esperado e desejado que você saia de curso ao longo do caminho. Tendo claro o destino e com instrumentos bem calibrados, arrumar seu curso se torna natural, sem motivo para pânico. E se estiver procurando as Índias e descobrir a América, maravilha!
+Assim como os grandes navegadores, se você está tomando riscos num projeto inovador, é esperado e desejado que você saia de curso ao longo do caminho. Tendo clareza do destino e com instrumentos bem calibrados, arrumar seu curso se torna natural. E se estiver procurando a Índia e trombar com a América, maravilha!
 
 Para concluir, um disclaimer: nem todo trabalho é uma grande navegação. É preciso equilibrar inovação com execução para que todos os navios cheguem até o destino.
 
@@ -121,11 +121,11 @@ Se você investiu meses numa funcionalidade que não ganha tração, é melhor a
 
 Da mesma forma, é melhor dar um *feedback* duro para um colega que entregou um trabalho ruim ou se comportou de forma inadequada. Só assim você o ajuda a se desenvolver.
 
-O concorrente mandou bem, melhor do que nós? O melhor é  admitir.
-Fizemos um trabalho ruim? Vamos nos conscientizar para melhorar na próxima vez.
-Cometeu um erro? Comeu bola? Quem nunca? O melhor é falar e dar chance para seus colegas te ajudarem a corrigir.
+* O concorrente mandou bem, melhor do que nós? O melhor é  admitir.
+* Fizemos um trabalho ruim? Vamos nos conscientizar para melhorar na próxima vez.
+* Cometeu um erro? Comeu bola? Quem nunca? O melhor é falar e dar chance para seus colegas te ajudarem a corrigir.
 
-Conversas duras e verdades inconvenientes podem ser amargas como um remédio, mas são o único caminho para a excelência e para a vitória sustentável.
+Conversas duras e verdades inconvenientes podem ser amargas, mas são o único caminho para a excelência e para se manter vitorioso.
 
 ## 8. Time &gt; Indivíduo
 
