@@ -137,7 +137,7 @@ As equipes que mais entregam são aquelas em que todos os membros se sentem à v
 
 Um bom time não compete entre si e tem as seguintes características:
 
-1) **Confiança** de que todo mundo está dando o seu melhor e, mesmo se você mandar mal, seu time estará lá para te ajudar.
+1) **Confiança** de que todo mundo está dando o seu melhor e, mesmo se você mandar mal, seu time vai estar lá para te ajudar.
 2) **Conflito** e debate, nunca de forma pessoal "eu vs você" mas de forma construtiva "eu + você vs o problema", jogando com lógica e premissas claras.
 3) **Comprometimento** de todos com o que foi combinado, por mais que discorde. É o famoso "*disagree and commit*" da Amazon.
 4) **Accountability** (na falta de uma palavra em português) é cobrar a iniciativa e a excelência entre o time. Não ter medo de cobrar nem de ser cobrado.
@@ -145,15 +145,15 @@ Um bom time não compete entre si e tem as seguintes características:
 
 ## 9. Politics Out
 
-Poucas coisas são capazes de fragmentar um(a) time/família/amizade quanto política. De uma década para cá, [conforme descrito pelo  psicólogo social Jonathan Haidt](https://www.theatlantic.com/magazine/archive/2022/05/social-media-democracy-trust-babel/629369/), com o impulso das redes sociais, nossa percepção da realidade se tornou mais fragmentada do que nunca.
+Poucas coisas são capazes de fragmentar um(a) time/família/amizade quanto política. De uma década para cá, [conforme descrito pelo  psicólogo social Jonathan Haidt](https://www.theatlantic.com/magazine/archive/2022/05/social-media-democracy-trust-babel/629369/), a difusão das redes sociais fez nossa percepção da realidade se tornar mais fragmentada do que nunca.
 
-Temos uma [tendência natural](https://waitbutwhy.com/2019/09/thinking-ladder.html) de reagir ao que coloca em risco a nossa percepção da realidade, e a forma como temas políticos são tratados hoje em dia é comparável a fumar um cigarro do lado da bomba de combustível.
+Temos uma [tendência natural](https://waitbutwhy.com/2019/09/thinking-ladder.html) de reagir ao que coloca em risco a nossa percepção da realidade, e a forma como temas políticos são tratados hoje em dia é comparável a fumar um cigarro do lado de um barril de pólvora.
 
-Dado tudo o que falamos sobre times excelentes, a dificuldade e o gasto de energia gigantesco para lutar contra as nossas tendências naturais e construir um time onde todo mundo se sente bem, trazer temas políticos é um tiro no pé. Já é difícil ganhar o jogo normalmente. Com um time dividido então, nem se fala.
+Dado tudo o que falamos sobre times excelentes, a dificuldade e o gasto de energia gigantesco para lutar contra as nossas tendências naturais e construir um time onde todo mundo se sente bem, trazer temas políticos é um tiro no pé. Se já é difícil ganhar o jogo com todo mundo junto, imagina com um time dividido.
 
-Não se trata de não defender seus ideais ou de não fazer ativismo. Você é livre e pode exercer seus direitos. Se trata de bom senso, de reconhecer suas próprias fragilidades, de respeitar a liberdade dos colegas, de saber separar os contextos e de ter foco na missão que você tem no trabalho.
+Não se trata de não defender seus ideais ou de não fazer ativismo. Você é livre e pode exercer seus direitos. Se trata de no trabalho ter bom senso, reconhecer suas próprias fragilidades, respeitar a liberdade dos colegas, saber separar os contextos e de ter foco na principal missão do seu time.
 
-Quando estiver com seu time, deixe a política de lado e foque no objetivo em comum que vocês tem, não nas suas divergências.
+Quando estiver com seu time, deixe a política de lado e foque no objetivo em comum e não nas suas divergências.
 
 ## 10. O caminho pra uma vida leve e divertida é cada um fazer  seu trabalho bem feito
 
