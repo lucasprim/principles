@@ -10,7 +10,7 @@
   - [7. No bullshit: Não tenha medo das verdades inconvenientes.](#7-no-bullshit-não-tenha-medo-das-verdades-inconvenientes)
   - [8. Time &gt; Indivíduo](#8-time--indivíduo)
   - [9. Politics Out](#9-politics-out)
-  - [10. O caminho pra uma vida leve e divertida é cada um fazer  seu trabalho bem feito](#10-o-caminho-pra-uma-vida-leve-e-divertida-é-cada-um-fazer--seu-trabalho-bem-feito)
+  - [10. O caminho pra uma vida leve e divertida é cada um fazer seu trabalho bem feito](#10-o-caminho-pra-uma-vida-leve-e-divertida-é-cada-um-fazer-seu-trabalho-bem-feito)
 - [Parte II: Trabalhando com o Prim](#parte-ii-trabalhando-com-o-prim)
   - [Uma vida leve se semeia com excelência](#uma-vida-leve-se-semeia-com-excelência)
   - [Lista: A gente vai se dar muito bem](#lista-a-gente-vai-se-dar-muito-bem)
@@ -155,16 +155,16 @@ Não se trata de não defender seus ideais ou de não fazer ativismo. Você é l
 
 Quando estiver com seu time, deixe a política de lado e foque no objetivo em comum e não nas suas divergências.
 
-## 10. O caminho pra uma vida leve e divertida é cada um fazer  seu trabalho bem feito
+## 10. O caminho pra uma vida leve e divertida é cada um fazer seu trabalho bem feito
 
-Não tem nada melhor do que sorrir e ter uma vida leve. Mas isso é uma conquista e não uma escolha. A melhor maneira de ter uma vida leve é se cada membro do time fizer seu trabalho bem feito.
+Não tem nada melhor do que sorrir e ter uma vida leve. Só que isso é uma conquista e não uma escolha. A melhor maneira de ter uma vida leve é se cada membro do time fizer seu trabalho bem feito.
 
 Trabalho bem feito é fruto de algumas atitudes importantes:
 
-1) **Foco** - Saber delegar e dizer não para o que não é o principal objetivo do time
+1) **Foco** - Saber delegar e dizer não para o que não é o principal objetivo do time.
 2) **Viés para a ação** - Não esperar que o fornecedor/colega/cliente faça as coisas por você. Ir atrás, ser curioso, ter prazer em riscar um item da sua lista de to-do.
-3) **Comunicação efetiva** - [BLUF](https://hbr.org/2016/11/how-to-write-email-with-military-precision), re-contextualize quem não está no seu dia-a-dia, use *bullet points*, seja breve.
-4) **Alinhamento constante** - Reporte para o seu líder o andamento das coisas, alinhe com seus liderados regularmente.
+3) **Comunicação efetiva** - [BLUF](https://hbr.org/2016/11/how-to-write-email-with-military-precision), re-contextualizar quem não está no seu dia-a-dia, usar *bullet points*, ser objetivo.
+4) **Alinhamento constante** - Reportar para o seu líder o andamento das coisas, alinhar com seus liderados regularmente.
 
 Se todo mundo fizer sua parte, todo mundo se diverte.
 
