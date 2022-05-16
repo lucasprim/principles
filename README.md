@@ -1,12 +1,29 @@
-# Lucas Prim.TXT
+- [Introdução](#introdução)
+  - [Contexto](#contexto)
+- [Parte I: Os 10 princípios inegociáveis](#parte-i-os-10-princípios-inegociáveis)
+  - [1. O Cliente é quem paga suas contas](#1-o-cliente-é-quem-paga-suas-contas)
+  - [2. Não seja uma vítima do contexto](#2-não-seja-uma-vítima-do-contexto)
+  - [3. Use princípios e referências](#3-use-princípios-e-referências)
+  - [4. Excelência é uma questão contextual](#4-excelência-é-uma-questão-contextual)
+  - [5. Não seja o profeta do futuro que nunca chega](#5-não-seja-o-profeta-do-futuro-que-nunca-chega)
+  - [6. Movimento não significa progresso. Defina seu destino e sua posição com relação a ele.](#6-movimento-não-significa-progresso-defina-seu-destino-e-sua-posição-com-relação-a-ele)
+  - [7. No bullshit: Não tenha medo das verdades inconvenientes.](#7-no-bullshit-não-tenha-medo-das-verdades-inconvenientes)
+  - [8. Time &gt; Indivíduo](#8-time--indivíduo)
+  - [9. Politics Out](#9-politics-out)
+  - [10. O caminho pra uma vida leve e divertida é cada um fazer  seu trabalho bem feito](#10-o-caminho-pra-uma-vida-leve-e-divertida-é-cada-um-fazer--seu-trabalho-bem-feito)
+- [Parte II: Trabalhando com o Prim](#parte-ii-trabalhando-com-o-prim)
+  - [Uma vida leve se semeia com excelência](#uma-vida-leve-se-semeia-com-excelência)
+  - [Lista: A gente vai se dar muito bem](#lista-a-gente-vai-se-dar-muito-bem)
+  - [Lista: A gente não vai se dar bem](#lista-a-gente-não-vai-se-dar-bem)
+  - [Comunicação](#comunicação)
+  - [Liderados](#liderados)
+- [Parte III: Outros princípios](#parte-iii-outros-princípios)
 
-{{TOC}}
-
-## Introdução
+# Introdução
 
 Olá, eu sou o Lucas Prim, mas todo mundo me chama de Prim. O objetivo deste texto é descrever quais são, na minha opinião, os princípios, comportamentos e crenças que formam relações profissionais engrandecedoras e que dão origem a times vencedores.
 
-### Contexto
+## Contexto
 
 Comecei a trabalhar com desenvolvimento de software no ano de 2001. Desde então já trabalhei em vários papeis, como contribuir individual e como gestor. Fui fundador de duas empresas fantásticas, o Kimitachi, um e-commerce de comida Japonesa com 8 restaurantes próprios (vendido ao Grupo Trigo em 2014) e a Zygo, um SAAS para ajudar donos de restaurantes a vender mais fidelizando seus clientes (vendida a PagSeguro em 2020). Já fui webmaster (das antigas né? 🤣), dono de restaurante, desenvolvedor, CTO, Product Manager e CEO. Pra falar bem a verdade, já fiz de tudo um pouco e já me aventurei por todas as áreas das empresas que fundei.
 
@@ -18,13 +35,13 @@ Antes de começar, alguns avisos importantes:
 - Não acredito que exista, nas relações humanas, um conjunto de comportamentos, crenças e princípios que possa ser considerado o "certo", mas definitivamente existem escolhas. Cada escolha otimiza as relações para alguma finalidade. Essas são as minhas escolhas, que otimizam as relações para serem leves e eficientes. 
 - Não interprete as coisas aqui ao pé da letra. Essa é uma referência e não um código moral. Acima de tudo, somos humanos. Somos imperfeitos por natureza mas temos a capacidade de perdoar, de ter empatia e de nos tornarmos maiores e melhores se nos juntarmos uns aos outros.
 
-## Parte I: Os 10 princípios inegociáveis
+# Parte I: Os 10 princípios inegociáveis
 
 Se for ler somente uma parte deste documento, sugira que leia esta. Aqui estão os dez princípios mais relevantes que aprendi ao longo da minha história.
 
 Eles estão aqui por um motivo: sempre que os utilizei eles me ajudaram a chegar nos objetivos com mais eficiência e clareza.
 
-### 1. O Cliente é quem paga suas contas
+## 1. O Cliente é quem paga suas contas
 
 O cliente é quem paga o salário de todo mundo: do chairman do *board* até o estagiário.
 Conversar frequentemente com diferentes clientes, com atenção e curiosidade é um *non-negotiable* para todos os executivos de todos os níveis da organização.
@@ -33,7 +50,7 @@ Você pode ter instrumentações fantásticas nos produtos, dados sobre múltipl
 
 Uma conversa atenta com 10 clientes vai te consumir uns dois dias e vai preservar meses de desenvolvimento, isso sem falar no seu budget apertado, né?
 
-### 2. Não seja uma vítima do contexto
+## 2. Não seja uma vítima do contexto
 
 Você ia sair para jogar bola e começou a chover. Você perdeu o voo para uma reunião importante. A previsão orçamentária não aconteceu conforme o previsto. O seu principal Tech lead foi trabalhar em Amsterdã ganhando o triplo. Deu para entender?
 
@@ -45,7 +62,7 @@ O sucesso não é garantido de forma independente do contexto, mas a sua capacid
 
 *"Sucesso é a paz de espírito de saber que você fez o seu melhor" - John Wooden.*
 
-### 3. Use princípios e referências
+## 3. Use princípios e referências
 
 Ser competitivo depende da sua capacidade de (1) utilizar com excelência tudo aquilo que é de conhecimento comum aos seus oponentes e (2) usar sua criatividade e inovar para gerar novas vantagens.
 
@@ -55,7 +72,7 @@ No desenvolvimento de um produto ou processo, utilize as referências de acadêm
 
 Ao mesmo tempo, tome o cuidado para não sair adotando tudo o que lê por aí. O que não falta na Internet são artigos falando de ideias sofisticadas, que fazem sentido porém não sobrevivem a alguns meses fora do mundo das ideias. Certifique-se de que você entende a motivação e os *trade-offs* que acompanham cada escolha.
 
-### 4. Excelência é uma questão contextual
+## 4. Excelência é uma questão contextual
 
 É melhor entregar um produto em 2 semanas ou ter 99% de *test coverage*? Depende.
 
@@ -67,7 +84,7 @@ Não existe "a melhor ferramenta", "a melhor linguagem" ou "o melhor processo". 
 
 Você precisa definir políticas para lidar com os *trade-offs* das suas escolhas. Por exemplo: Escolher uma linguagem de programação com alta performance mas com um baixo número de desenvolvedores no país significa que você: 1) Vai ganhar em tempo de resposta da aplicação (otimização) mas; 2) Vai ter dificuldade na contratação de profissionais. Para lidar com esse *trade-off*, você pode, por exemplo, criar uma área de formação de desenvolvedores, ou investir pesado e se tornar a maior referência do país na linguagem, de forma a atrair os poucos desenvolvedores disponíveis para o seu time.
 
-### 5. Não seja o profeta do futuro que nunca chega
+## 5. Não seja o profeta do futuro que nunca chega
 
 A capacidade de vender algo e de contar histórias convincentes é um poder fantástico. No entanto, como diria o tio Ben,  grandes poderes vem acompanhados de grandes responsabilidades.
 
@@ -84,7 +101,7 @@ Por exemplo:
 
 Eis que no meio do lançamento do nosso produto, o PIX é lançado, com uma adoção em massa dos donos de pousadas, que agora oferecem uma experiência infinitamente mais fácil para seus hóspedes. E agora? As premissas mudaram todas, logo a decisão de fazer esse produto para esse cliente precisa ser revista para lidar com essa nova realidade.
 
-### 6. Movimento não significa progresso. Defina seu destino e sua posição com relação a ele.
+## 6. Movimento não significa progresso. Defina seu destino e sua posição com relação a ele.
 
 Ninguém vai a falência por falta de trabalho, mas sim por trabalhar nas coisas erradas. É fácil se iludir e achar que com um dia que começa de madrugada, uma agenda cheia e um final do dia exaustivo são a matéria prima do sucesso.
 
@@ -99,7 +116,7 @@ Assim como os grandes navegadores, se você está de fato tomando riscos num pro
 
 Para concluir, um disclaimer: nem todo trabalho é uma grande navegação. É preciso equilibrar inovação com execução para que todos os navios cheguem até o destino.
 
-### 7. No bullshit: Não tenha medo das verdades inconvenientes.
+## 7. No bullshit: Não tenha medo das verdades inconvenientes.
 
 Se você investiu meses numa funcionalidade que não ganha tração, é melhor aprender com o erro do que ficar passando "maquiagem no porco" para não machucar o ego de ninguém. A verdade é que as vezes, por mais competente e diligente que tenha sido a execução de um projeto, ele pode não resultar em nada além dos aprendizados. Faz parte da vida.
 
@@ -111,7 +128,7 @@ Cometeu um erro? Comeu bola? Quem nunca? O melhor é falar e dar chance para seu
 
 Conversas duras e verdades inconvenientes podem ser amargas como um remédio, mas são o único caminho para a excelência e para a vitória sustentável.
 
-### 8. Time &gt; Indivíduo
+## 8. Time &gt; Indivíduo
 
 As equipes que mais entregam são aquelas em que todos os membros se sentem à vontade para ser eles mesmos. No ambiente corporativo, isso tende a ser uma excessão e não uma regra.
 
@@ -127,7 +144,7 @@ Um bom time não compete entre si e tem as seguintes características:
 4) **Accountability** (na falta de uma palavra em português) é cobrar a iniciativa e a excelência entre o time. Não ter medo de cobrar nem de ser cobrado.
 5) **Foco nos Resultados do time** mais do que no resultado pessoal de cada um. A vitória do time precede a vitória individual.
 
-### 9. Politics Out
+## 9. Politics Out
 
 Poucas coisas são capazes de fragmentar um(a) time/família/amizade quanto política. De uma década para cá, [conforme descrito pelo  psicólogo social Jonathan Haidt](https://www.theatlantic.com/magazine/archive/2022/05/social-media-democracy-trust-babel/629369/), com o impulso das redes sociais, nossa percepção da realidade se tornou mais fragmentada do que nunca.
 
@@ -139,7 +156,7 @@ Não se trata de não defender seus ideais ou de não fazer ativismo. Você é l
 
 Quando estiver com seu time, deixe a política de lado e foque no objetivo em comum que vocês tem, não nas suas divergências.
 
-### 10. O caminho pra uma vida leve e divertida é cada um fazer  seu trabalho bem feito
+## 10. O caminho pra uma vida leve e divertida é cada um fazer  seu trabalho bem feito
 
 Não tem nada melhor do que sorrir e ter uma vida leve. Mas isso é uma conquista e não uma escolha. A melhor maneira de ter uma vida leve é se cada membro do time fizer seu trabalho bem feito.
 
@@ -152,15 +169,15 @@ Trabalho bem feito é fruto de algumas atitudes importantes:
 
 Se todo mundo fizer sua parte, todo mundo se diverte.
 
-## Parte II: Trabalhando com o Prim
+# Parte II: Trabalhando com o Prim
 
-### Uma vida leve se semeia com excelência
+## Uma vida leve se semeia com excelência
 
 Adoro ter uma vida leve. Adoro contar piadas, imitar celebridades, ter motivos de sobra para sorrir junto com o meu time. Ao mesmo tempo, a excelência no trabalho para mim é inegociável. Por isso, não tenho problema nenhum em cobrar as entregas do meu time, dos meus pares e do meu líder.
 
 Já contratei centenas de pessoas e trabalhei com algumas dezenas delas. Ao longo da última década criei um compêndio de atitudes que me aproximam ou me afastam das pessoas ao meu redor, que está enumerado a seguir.
 
-### Lista: A gente vai se dar muito bem
+## Lista: A gente vai se dar muito bem
 
 Todos os comportamentos dessa lista são os que você pode cobrar de mim. Vamos nos dar muito bem se você:
 
@@ -172,7 +189,7 @@ Todos os comportamentos dessa lista são os que você pode cobrar de mim. Vamos 
 * Reportar seu progresso em termos de entregas e resultados (esperados ou concretos).
 * Souber articular, a qualquer momento, sobre o seu produto: a visão, como ela se conecta com a da empresa, KPIs, OKRs.
 
-### Lista: A gente não vai se dar bem
+## Lista: A gente não vai se dar bem
 
 * Não estiver disposto a refletir e assumir a autoria dos seus erros e do seu time
 * Não for vulnerável, honesto e transparente
@@ -181,7 +198,7 @@ Todos os comportamentos dessa lista são os que você pode cobrar de mim. Vamos 
 * Não entregar o que combinamos, não reportar o status do que combinamos
 * Cultivar uma agenda oculta
 
-### Comunicação
+## Comunicação
 
 **Reuniões**
 
@@ -207,7 +224,7 @@ Expectativa de tempo de resposta:
 
 Tente resolver seu problema por E-Mail, Slack ou WhatsApp antes de recorrer a uma reunião. Seja objetivo.
 
-### Liderados
+## Liderados
 
 Se você reporta para mim, aqui vão algumas expectativas importantes que funcionaram no passado. Conto com você para editarmos essa lista!
 
@@ -235,7 +252,7 @@ Se você reporta para mim, aqui vão algumas expectativas importantes que funcio
 	- Te cobrar reports e atualizações.
 	- Ler textão.
 
-## Parte III: Outros princípios
+# Parte III: Outros princípios
 
 Alguns outros princípios importantes que aprendi ao longo da minha jornada:
 
