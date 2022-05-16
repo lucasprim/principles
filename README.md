@@ -92,10 +92,11 @@ Toda decisão importante deve ser acompanhada de premissas que deixem claro as c
 
 Por exemplo:
 
-- Decidimos construir um sistema de link de pagamentos com cartão de crédito para pousadas, baseando-nos nas seguintes premissas:
-	A) Pousadas tem dificuldades em receber via TED pela complexidade para o hóspede.
-	B) 95% das pousadas utilizam cartão de crédito para processar pagamentos no local.
-	C) As pousadas querem oferecer uma experiência melhor para seus hóspedes, de forma a não perder reservas.
+Decidimos construir um sistema de link de pagamentos com cartão de crédito para pousadas, baseando-nos nas seguintes premissas:
+
+1. Pousadas tem dificuldades em receber via TED pela complexidade para o hóspede.
+2. 95% das pousadas utilizam cartão de crédito para processar pagamentos no local.
+3. As pousadas querem oferecer uma experiência melhor para seus hóspedes, de forma a não perder reservas.
 
 Eis que no meio do lançamento do nosso produto, o PIX é lançado, com uma adoção em massa dos donos de pousadas, que agora oferecem uma experiência infinitamente mais fácil para seus hóspedes. E agora? As premissas mudaram todas, logo a decisão de fazer esse produto para esse cliente precisa ser revista para lidar com essa nova realidade.
 
