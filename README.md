@@ -129,11 +129,11 @@ Conversas duras e verdades inconvenientes podem ser amargas, mas são o único c
 
 ## 8. Time &gt; Indivíduo
 
-As equipes que mais entregam são aquelas em que todos os membros se sentem à vontade para ser eles mesmos. No ambiente corporativo, isso tende a ser uma excessão e não uma regra.
+As equipes que mais entregam são aquelas em que todos os membros se sentem à vontade para ser eles mesmos. No ambiente corporativo, isso tende a ser a excessão e não a regra.
 
-É preciso lutar contra a entropia com **transparência**, **vulnerabilidade** e treinando suas reações negativas para que apareçam com cada vez menos frequência.
+É preciso lutar contra a entropia com **transparência**, **vulnerabilidade** e treinando suas reações negativas para que apareçam cada vez menos.
 
-*"Seja o que for dito ou feito, presuma sempre que a melhor das intenções" (Indra Nooyi)*
+*"Seja o que for dito ou feito, presuma sempre a melhor das intenções" (Indra Nooyi)*
 
 Um bom time não compete entre si e tem as seguintes características:
 
