@@ -172,9 +172,9 @@ Se todo mundo fizer sua parte, todo mundo se diverte.
 
 ## Uma vida leve se semeia com excelência
 
-Adoro ter uma vida leve. Adoro contar piadas, imitar celebridades, ter motivos de sobra para sorrir junto com o meu time. Ao mesmo tempo, a excelência no trabalho para mim é inegociável. Por isso, não tenho problema nenhum em cobrar as entregas do meu time, dos meus pares e do meu líder.
+Adoro ter uma vida leve. Adoro contar piadas, imitar celebridades, ter motivos de sobra para sorrir junto com o meu time. Ao mesmo tempo, a excelência no trabalho é inegociável e a vida leve é uma consequencia de estar em um time que entrega o que se propõe.
 
-Já contratei centenas de pessoas e trabalhei com algumas dezenas delas. Ao longo da última década criei um compêndio de atitudes que me aproximam ou me afastam das pessoas ao meu redor, que está enumerado a seguir.
+Já contratei centenas de pessoas e trabalhei com algumas dezenas. Nessas experiências, pude identificar alguns comportamentos que tornam a vida do time mais fácil. Estes comportamentos estão enumerados nas listas a seguir.
 
 ## Lista: A gente vai se dar muito bem
 
