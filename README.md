@@ -102,7 +102,7 @@ Eis que no meio do lançamento do nosso produto, o PIX é lançado, com uma ado�
 
 ## 6. Movimento não significa progresso. Defina seu destino e sua posição com relação a ele.
 
-Ninguém vai a falência por falta de trabalho, mas sim por trabalhar nas coisas erradas. É fácil se iludir e achar que com um dia que começa de madrugada, uma agenda cheia e um final do dia exaustivo são a matéria prima do sucesso.
+Ninguém vai a falência por falta de trabalho, mas sim por trabalhar nas coisas erradas. É fácil se iludir e achar que um dia que começa de madrugada, uma agenda cheia e um final do dia exaustivo são a matéria prima do sucesso.
 
 A máxima da correlação entre o sucesso e o trabalho árduo é verdadeira para atividades puramente operacionais, onde há uma conexão direta entre tempo/energia e output. Para todo o resto, é preciso ter alguns elementos para não cair em armadilhas e tomar boas decisões:
 
