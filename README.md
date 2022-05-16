@@ -37,18 +37,16 @@ Antes de começar, alguns avisos importantes:
 
 # Parte I: Os 10 princípios inegociáveis
 
-Se for ler somente uma parte deste documento, sugira que leia esta. Aqui estão os dez princípios mais relevantes que aprendi ao longo da minha história.
-
-Eles estão aqui por um motivo: sempre que os utilizei eles me ajudaram a chegar nos objetivos com mais eficiência e clareza.
+Se for ler somente uma parte deste documento, sugiro que leia esta. Aqui estão os dez princípios mais relevantes que aprendi ao longo da minha carreira. Eles estão aqui por um motivo: sempre que os utilizei eles me ajudaram a chegar nos objetivos com mais eficiência e clareza.
 
 ## 1. O Cliente é quem paga suas contas
 
-O cliente é quem paga o salário de todo mundo: do chairman do *board* até o estagiário.
+O cliente é quem paga o salário de todo mundo: do *chairman* do *board* até o estagiário.
 Conversar frequentemente com diferentes clientes, com atenção e curiosidade é um *non-negotiable* para todos os executivos de todos os níveis da organização.
 
-Você pode ter instrumentações fantásticas nos produtos, dados sobre múltiplas dimensões, pesquisas de satisfação automáticas, etc. Essas informações vão te ajudar a entender as tendências sobre o que está acontecendo com os seus clientes, mas raramente vão te dizer o motivo pela qual elas acontecem.  Sem saber do motivo, você não cria hipóteses de solução mas sim hipóteses de problema, e esse é o primeiro passo para o desperdício e para a ineficiência.
+Você pode ter instrumentações fantásticas nos produtos, dados sobre múltiplas dimensões, pesquisas de satisfação automáticas, etc. Essas informações vão te ajudar a entender as tendências sobre o que está acontecendo com os seus clientes, mas raramente vão te dizer o motivo pelo qual elas acontecem.  Sem saber do motivo, você não cria hipóteses de solução mas hipóteses de problema, e esse é o primeiro passo para o desperdício e para a ineficiência.
 
-Uma conversa atenta com 10 clientes vai te consumir uns dois dias e vai preservar meses de desenvolvimento, isso sem falar no seu budget apertado, né?
+Uma conversa atenta com 10 clientes vai te consumir uns dois dias e vai preservar meses de desenvolvimento e budget.
 
 ## 2. Não seja uma vítima do contexto
 
