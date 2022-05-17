@@ -6,8 +6,8 @@
   - [3. Use princípios e referências](#3-use-princípios-e-referências)
   - [4. Excelência é uma questão contextual](#4-excelência-é-uma-questão-contextual)
   - [5. Não seja o profeta do futuro que nunca chega](#5-não-seja-o-profeta-do-futuro-que-nunca-chega)
-  - [6. Movimento não significa progresso. Defina seu destino e sua posição com relação a ele.](#6-movimento-não-significa-progresso-defina-seu-destino-e-sua-posição-com-relação-a-ele)
-  - [7. No bullshit: Não tenha medo das verdades inconvenientes.](#7-no-bullshit-não-tenha-medo-das-verdades-inconvenientes)
+  - [6. Movimento não significa progresso. Defina seu destino e sua posição com relação a ele](#6-movimento-não-significa-progresso-defina-seu-destino-e-sua-posição-com-relação-a-ele)
+  - [7. No bullshit: Não tenha medo das verdades inconvenientes](#7-no-bullshit-não-tenha-medo-das-verdades-inconvenientes)
   - [8. Time &gt; Indivíduo](#8-time--indivíduo)
   - [9. Politics Out](#9-politics-out)
   - [10. O caminho pra uma vida leve e divertida é cada um fazer seu trabalho bem feito](#10-o-caminho-pra-uma-vida-leve-e-divertida-é-cada-um-fazer-seu-trabalho-bem-feito)
@@ -100,7 +100,7 @@ Decidimos construir um sistema de link de pagamentos com cartão de crédito par
 
 Eis que no meio do lançamento do nosso produto, o PIX é lançado, com uma adoção em massa dos donos de pousadas, que agora oferecem uma experiência infinitamente mais fácil para seus hóspedes. E agora? As premissas mudaram todas, logo a decisão de fazer esse produto para esse cliente precisa ser revista para lidar com essa nova realidade.
 
-## 6. Movimento não significa progresso. Defina seu destino e sua posição com relação a ele.
+## 6. Movimento não significa progresso. Defina seu destino e sua posição com relação a ele
 
 Ninguém vai a falência por falta de trabalho, mas sim por trabalhar nas coisas erradas. É fácil se iludir e achar que um dia que começa de madrugada, uma agenda cheia e um final do dia exaustivo são a matéria prima do sucesso.
 
@@ -115,7 +115,7 @@ Assim como os grandes navegadores, se você está tomando riscos num projeto ino
 
 Para concluir, um disclaimer: nem todo trabalho é uma grande navegação. É preciso equilibrar inovação com execução para que todos os navios cheguem até o destino.
 
-## 7. No bullshit: Não tenha medo das verdades inconvenientes.
+## 7. No bullshit: Não tenha medo das verdades inconvenientes
 
 Se você investiu meses numa funcionalidade que não ganha tração, é melhor aprender com o erro do que ficar passando "maquiagem no porco" para não machucar o ego de ninguém. A verdade é que as vezes, por mais competente e diligente que tenha sido a execução de um projeto, ele pode não resultar em nada além dos aprendizados. Faz parte da vida.
 
